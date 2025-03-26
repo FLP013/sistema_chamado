@@ -5,6 +5,22 @@
 }
 
 body{
+    background-image: url("../images/IMAGEM\ NQA\ -\ \ LOGIN.png");
+    background-repeat: no-repeat;
+    background-size: 1300px;
+    background-attachment: fixed;
+    background-position: center;
+}
 
-    
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
 }
